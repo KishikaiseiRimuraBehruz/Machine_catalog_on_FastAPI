@@ -6,7 +6,7 @@
 
 #### 1. Clone the GitHub repository:
     
-    git clone https://github.com/xtekky/gpt4free.git
+    git clone https://github.com/KishikaiseiRimuraBehruz/Machine_catalog_on_FastAPI.git
 
 #### 2. Navigate to the project directory:
     
